@@ -111,8 +111,8 @@ function Content() {
           <img src="Lolla1.png" alt="Image 2" />
          <h2 style={{marginTop:"10px", marginLeft:"20px"}}>Lolla Smith</h2>
           </div>
-          <p style={{marginLeft:"6pc", marginTop:"-30px"}}>Microsoft</p>
-          <div style={{display:"flex", marginLeft: "5pc", marginTop: "-1pc"}}>
+          <p style={{marginLeft:"91px", marginTop:"-28px"}}>Microsoft</p>
+          <div style={{display:"flex", marginLeft: "89px", marginTop: "-10px"}}>
           <img src="fluent-emoji-flat_star.png" alt="Image 2" />
           <img src="fluent-emoji-flat_star.png" alt="Image 2" />
           <img src="fluent-emoji-flat_star.png" alt="Image 2" />
@@ -127,8 +127,8 @@ function Content() {
           <img src="Lolla1.png" alt="Image 2" />
          <h2 style={{marginTop:"10px", marginLeft:"20px"}}>Lolla Smith</h2>
           </div>
-          <p style={{marginLeft:"6pc", marginTop:"-30px"}}>Microsoft</p>
-          <div style={{display:"flex", marginLeft: "5pc", marginTop: "-1pc"}}>
+          <p style={{marginLeft:"91px", marginTop:"-28px"}}>Microsoft</p>
+          <div style={{display:"flex", marginLeft: "89px", marginTop: "-10px"}}>
           <img src="fluent-emoji-flat_star.png" alt="Image 2" />
           <img src="fluent-emoji-flat_star.png" alt="Image 2" />
           <img src="fluent-emoji-flat_star.png" alt="Image 2" />
