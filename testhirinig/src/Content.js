@@ -55,11 +55,11 @@ function Content() {
         </div>
         <div style={{ marginTop: "-24pc", marginLeft: "50pc"}}>
             <h1> About the Course </h1>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unkno</p>
+            <p style={{width:"18pc"}}>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unkno</p>
             <button className='button'>Explore now</button>
         </div>
 
-        <div style={{ marginTop: "9pc", display:"flex", justifyContent:"center"}}>
+        <div style={{ marginTop: "13pc", display:"flex", justifyContent:"center"}}>
             <h1> Choose Your Plan</h1>
         </div>
         <div style={{ marginTop: "-2pc", display:"flex", justifyContent:"center"}}>
@@ -75,10 +75,10 @@ function Content() {
             <li>Free access to video class</li>
             <li>Free access to video class</li>
         </ul>
-        <button style={{ height: "60px", width: "156px", borderRadius:"10px", borderColor:"#7A3199", color:"#7A3199", fontSize:"18px"}}>Start Free Trail</button>
+        <button style={{border:"none", height: "50px", width: "156px", borderRadius:"10px", borderColor:"#7A3199", color:"#7A3199", fontSize:"18px"}}>Start Free Trail</button>
         </div>
-        <div style={{border:"solid 1px", borderRadius:"10px" ,padding:"10px", paddingLeft:"25px", marginTop:"5pc", width:"15pc", background:"#7A3199", color:"white"}}>
-         <h2 style={{color:"White"}}>Basic Plan</h2>
+        <div className='cardShadow' style={{border:"solid 1px", borderRadius:"10px" ,padding:"10px", paddingLeft:"25px", marginTop:"5pc", width:"15pc", background:"#7A3199", color:"white"}}>
+         <h2 style={{color:"White"}}>Premium Plan</h2>
          <p>Lorem Ipsum is simply dummy text of the printing and typesetting</p>
          <h1 style={{color:"white"}}>$ 54 <span style={{fontSize:"20px", fontWeight:"300", marginTop:"-10px"}}>/month</span></h1>
          <ul style={{marginLeft:"-15px"}}>
@@ -86,7 +86,7 @@ function Content() {
             <li>Free access to video class</li>
             <li>Free access to video class</li>
         </ul>
-        <button style={{ height: "60px", width: "156px", borderRadius:"10px", borderColor:"#7A3199", color:"#7A3199", fontSize:"18px"}}>Start Free Trail</button>
+        <button style={{border:"none", height: "50px", width: "156px", borderRadius:"10px", borderColor:"#7A3199", color:"#7A3199", fontSize:"18px"}}>Start Free Trail</button>
         </div>
         <div style={{border:"solid 1px", borderRadius:"10px" ,padding:"10px", paddingLeft:"25px",marginTop:"5pc", width:"15pc"}}>
          <h2>Basic Plan</h2>
@@ -97,40 +97,54 @@ function Content() {
             <li>Free access to video class</li>
             <li>Free access to video class</li>
         </ul>
-        <button style={{ height: "60px", width: "156px", borderRadius:"10px", borderColor:"#7A3199", color:"#7A3199", fontSize:"18px"}}>Start Free Trail</button>
+        <button style={{border:"none", height: "50px", width: "156px", borderRadius:"10px", borderColor:"#7A3199", color:"#7A3199", fontSize:"18px"}}>Start Free Trail</button>
         </div>
         </div>
 
-        <div style={{marginTop:"4pc", marginLeft:"5pc"}}>
+        <div style={{marginTop:"5pc", marginLeft:"5pc"}}>
             <h1>Review from customers</h1>
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry</p>
-        <div style={{display:"flex", justifyContent:"space-around", marginTop:"-5pc", marginLeft:"-5pc", alignItems:"center"}}>
+        <div style={{display:"flex", justifyContent:"space-around", marginTop:"-3pc", marginLeft:"-5pc", alignItems:"center"}}>
         <div className='cardShadow' style={{ borderRadius:"10px" ,padding:"10px", paddingLeft:"25px", marginTop:"5pc", width:"24pc", height:"10pc"}}>
           <div style={{display:"flex"}}>
           <img src="Lolla1.png" alt="Image 2" />
-         <h2>Lolla Smith</h2>
+         <h2 style={{marginTop:"10px", marginLeft:"20px"}}>Lolla Smith</h2>
           </div>
-          <p style={{marginLeft:"5pc", marginTop:"-13px"}}>Microsoft</p>
+          <p style={{marginLeft:"6pc", marginTop:"-30px"}}>Microsoft</p>
+          <div style={{display:"flex", marginLeft: "5pc", marginTop: "-1pc"}}>
+          <img src="fluent-emoji-flat_star.png" alt="Image 2" />
+          <img src="fluent-emoji-flat_star.png" alt="Image 2" />
+          <img src="fluent-emoji-flat_star.png" alt="Image 2" />
+          <img src="fluent-emoji-flat_star.png" alt="Image 2" />
+          <img src="fluent-emoji-flat_star.png" alt="Image 2" />
+          </div>
          <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
         </div>
         
         <div style={{ borderRadius:"10px" ,padding:"10px", paddingLeft:"25px", marginTop:"5pc", width:"24pc", height:"10pc"}}>
           <div style={{display:"flex"}}>
           <img src="Lolla1.png" alt="Image 2" />
-         <h2>Lolla Smith</h2>
+         <h2 style={{marginTop:"10px", marginLeft:"20px"}}>Lolla Smith</h2>
           </div>
-          <p style={{marginLeft:"5pc", marginTop:"-13px"}}>Microsoft</p>
+          <p style={{marginLeft:"6pc", marginTop:"-30px"}}>Microsoft</p>
+          <div style={{display:"flex", marginLeft: "5pc", marginTop: "-1pc"}}>
+          <img src="fluent-emoji-flat_star.png" alt="Image 2" />
+          <img src="fluent-emoji-flat_star.png" alt="Image 2" />
+          <img src="fluent-emoji-flat_star.png" alt="Image 2" />
+          <img src="fluent-emoji-flat_star.png" alt="Image 2" />
+          <img src="fluent-emoji-flat_star.png" alt="Image 2" />
+          </div>
          <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
         </div>
         <img src="pepicons-pencil_arrow-right.png" alt="Image 2" height={35}/>
         </div>
-        <div className="dot" style={{marginTop:"2pc", marginLeft:"30pc"}}></div>
-      <div className="dot" style={{marginTop:"2pc", marginLeft:"45pc", background:"grey"}}></div>
-      <div className="dot" style={{marginTop:"2pc", marginLeft:"40pc", background:"grey"}}></div>
-      <div className="dot" style={{marginTop:"2pc", marginLeft:"35pc", background:"grey"}}></div>
+        <div className="dot" style={{marginTop:"2pc", marginLeft:"33pc"}}></div>
+      <div className="dot" style={{marginTop:"2pc", marginLeft:"36pc", background:"grey"}}></div>
+      <div className="dot" style={{marginTop:"2pc", marginLeft:"39pc", background:"grey"}}></div>
+      <div className="dot" style={{marginTop:"2pc", marginLeft:"42pc", background:"grey"}}></div>
         </div>
 
-        <div style={{ marginTop: "3pc", display:"flex", justifyContent:"center"}}>
+        <div style={{ marginTop: "8pc", display:"flex", justifyContent:"center"}}>
             <h1> We have what you're looking for</h1>
         </div>
         <div style={{ marginTop: "-1pc", display:"flex", justifyContent:"center"}}>
@@ -141,7 +155,7 @@ function Content() {
         <button className='button'><b>Get Started now</b></button>
         </div>
 
-        <div className='footer' style={{borderTop:"solid 1px", marginTop:"5pc"}}>
+        <div className='footer' style={{borderTop:"solid 1px", marginTop:"5pc", height:"20px"}}>
             <span>All Right Reserved @Copyright 2023</span>
 
            <div className='footer1'>

@@ -4,7 +4,9 @@ body {
   font-family: sans-serif;
 }
 
-
+p{
+  font-size: 14px;
+}
 
 .rectangle {
   width: 100%;
@@ -42,10 +44,11 @@ body {
   border-radius: 10px;
   background: var(--danger, linear-gradient(90deg, #4776E6 0%, #8E54E9 100%));
   color: white;
-  height: 60px;
+  height: 50px;
   width: 156px;
   margin-top: 55px;
   font-size: 15px;
+  border: none;
 }
 
 .image-container {
