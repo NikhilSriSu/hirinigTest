@@ -9,7 +9,7 @@ function Content() {
          <b style={{color:"white", marginLeft:"6pc"}}>Pricing</b>
          <b style={{color:"white", marginLeft:"6pc"}}>Review</b>
 
-       <div style={{marginLeft:"6pc"}}>
+       <div style={{marginLeft:"6pc", marginTop:"7pc"}}>
        <h1 style={{color:"white", marginTop:"60px", marginBottom:"-15px"}}>Learn how to launch a</h1>
        <h1 style={{color:"white"}}>successful podcast</h1>
        <p style={{color:"white"}}>Lorem Ipsum is simply dummy text of the printing and </p>
