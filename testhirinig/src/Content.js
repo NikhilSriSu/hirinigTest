@@ -145,7 +145,7 @@ function Content() {
       <div className="dot" style={{marginTop:"2pc", marginLeft:"42pc", background:"grey"}}></div>
         </div>
 
-        <div style={{ marginTop: "8pc", display:"flex", justifyContent:"center"}}>
+        <div style={{ marginTop: "6pc", display:"flex", justifyContent:"center"}}>
             <h1> We have what you're looking for</h1>
         </div>
         <div style={{ marginTop: "-1pc", display:"flex", justifyContent:"center"}}>
