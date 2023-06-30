@@ -37,19 +37,19 @@ function Content() {
       <img className="image" src="everyone-is-smiling-listens-group-people-business-conference-modern-classroom-daytime 1.png" alt="Image 1" />
       <img className="image" src="group-business-workers-smiling-happy-confident-working-together-with-smile-face-applauding-one-them-office 1.png" alt="Image 2" style={{marginTop:"75px", marginLeft:"-100px"}}/>
     </div>
-    <div style={{border:"solid 1px", borderRadius:"10px" ,padding:"10px", marginLeft:"6pc", marginTop:"35pc", width:"15pc"}}>
+    <div style={{border:"solid 1px #7A3199", borderRadius:"10px" ,padding:"10px", marginLeft:"6pc", marginTop:"35pc", width:"15pc"}}>
          <h2 style={{color:"black"}}>Interactive Features</h2>
          <p>Lorem Ipsum is simply dummy  text of the printing and typesetting industry. Lorem Ipsum has been</p>
         </div>
-        <div style={{border:"solid 1px", borderRadius:"10px" ,padding:"10px", marginLeft:"24pc", marginTop:"-8pc", width:"15pc"}}>
+        <div style={{border:"solid 1px #7A3199", borderRadius:"10px" ,padding:"10px", marginLeft:"24pc", marginTop:"-8pc", width:"15pc"}}>
          <h2 style={{color:"black"}}>Interactive Features</h2>
          <p>Lorem Ipsum is simply dummy  text of the printing and typesetting industry. Lorem Ipsum has been</p>
         </div>
-        <div style={{border:"solid 1px", borderRadius:"10px" ,padding:"10px", marginLeft:"6pc", marginTop:"0pc", width:"15pc"}}>
+        <div style={{border:"solid 1px #7A3199", borderRadius:"10px" ,padding:"10px", marginLeft:"6pc", marginTop:"0pc", width:"15pc"}}>
          <h2 style={{color:"black"}}>Interactive Features</h2>
          <p>Lorem Ipsum is simply dummy  text of the printing and typesetting industry. Lorem Ipsum has been</p>
         </div>
-        <div style={{border:"solid 1px", borderRadius:"10px" ,padding:"10px", marginLeft:"24pc", marginTop:"-9pc", width:"15pc"}}>
+        <div style={{border:"solid 1px #7A3199", borderRadius:"10px" ,padding:"10px", marginLeft:"24pc", marginTop:"-9pc", width:"15pc"}}>
          <h2 style={{color:"black"}}>Interactive Features</h2>
          <p>Lorem Ipsum is simply dummy  text of the printing and typesetting industry. Lorem Ipsum has been</p>
         </div>
