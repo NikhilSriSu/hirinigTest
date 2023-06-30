@@ -22,9 +22,10 @@ function Content() {
       <div className="dot">  <img className="image" src="Vector.png" alt="Image 1" style={{marginTop:"80px"}}/></div>
       <div className="dot" style={{marginTop:"-10pc"}}></div>
       <div className="dot" style={{marginTop:"-7pc"}}></div>
-      <div className="dot" style={{marginTop:"-4pc"}}><img className="image" src="Group.png" alt="Image 1" style={{marginLeft:"-85px", marginTop:"4px"}}/></div>
+      <div className="dot" style={{marginTop:"-4pc"}}><img className="image" src="Group.png" alt="Image 1" style={{marginLeft:"-85px", marginTop:"33px"}}/></div>
       <div className="dot" style={{marginTop:"-1pc"}}></div>
       <div className="dot" style={{marginTop:"2pc"}}></div>
+      <div className="dot" style={{marginTop:"-4pc", marginLeft:"65pc"}}></div>
       <div className="dot" style={{marginTop:"2pc", marginLeft:"65pc"}}></div>
       <div className="dot" style={{marginTop:"2pc", marginLeft:"60pc"}}></div>
       <div className="dot" style={{marginTop:"2pc", marginLeft:"55pc"}}></div>
@@ -49,7 +50,7 @@ function Content() {
          <h2 style={{color:"black"}}>Interactive Features</h2>
          <p>Lorem Ipsum is simply dummy  text of the printing and typesetting industry. Lorem Ipsum has been</p>
         </div>
-        <div style={{border:"solid 1px #7A3199", borderRadius:"10px" ,padding:"10px", marginLeft:"24pc", marginTop:"-9pc", width:"15pc"}}>
+        <div style={{border:"solid 1px #7A3199", borderRadius:"10px" ,padding:"10px", marginLeft:"24pc", marginTop:"-8pc", width:"15pc"}}>
          <h2 style={{color:"black"}}>Interactive Features</h2>
          <p>Lorem Ipsum is simply dummy  text of the printing and typesetting industry. Lorem Ipsum has been</p>
         </div>
